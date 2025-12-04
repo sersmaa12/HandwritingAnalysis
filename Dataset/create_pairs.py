@@ -2,8 +2,8 @@ import os
 import glob
 import random
 
-DATASET_SIZE = 1000
-TRAIN_TEST_SPLIT = 0.90
+DATASET_SIZE = 50000
+TRAIN_TEST_SPLIT = 0.90 
 
 dataset_path = "./Authors"
 
